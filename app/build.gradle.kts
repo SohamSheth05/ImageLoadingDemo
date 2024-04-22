@@ -81,5 +81,5 @@ dependencies {
     implementation(libs.logging.interceptor)
     implementation(libs.androidx.lifecycle.livedata.ktx)
     implementation(libs.androidx.runtime.livedata)
-    implementation(libs.coil.compose)
+
 }
